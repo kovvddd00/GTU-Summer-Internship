@@ -1,4 +1,4 @@
-Practical Assignments
+<H2>**GTU Summer Internship Edunet**</H2>
 
 This repository contains the practical assignments completed as part of the Python Programming course.
 
